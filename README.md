@@ -44,6 +44,13 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 [![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=FFFFFF)](https://www.r-project.org/)
 [![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=FFFFFF)](https://rstudio.com/)
 
+## 🧮 GitHub statistics
+
+<p>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=ESKYoung&count_private=true&show_icons=true&hide_title=true" alt="Eric's GitHub statistics">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESKYoung&layout=compact&custom_title=Most%20used%20languages" alt="Eric's most used languages">
+</p>
+
 <!--
 **ESKYoung/ESKYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
