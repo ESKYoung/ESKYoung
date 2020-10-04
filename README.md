@@ -8,7 +8,7 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 - 😄 Pronouns: **he/him/his/himself**
 
 [![My LinkedIn profile](https://img.shields.io/badge/-Eric%20Young-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/eskyoung/)
-[![Visits Badge](https://badges.pufler.dev/visits/ESKYoung/ESKYoung?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/ESKYoung)
+[![Visits Badge](https://visitor-badge-shields.glitch.me/badge?page_id=ESKYoung&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/ESKYoung)
 
 ## 🌍🛠 Languages and tools 
 
