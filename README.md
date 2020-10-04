@@ -1,4 +1,14 @@
-# Hi there 👋
+# Hello folks! 👋
+
+My name is **Eric Young**, and I'm a data scientist based in London!
+
+- 💛 I love using machine learning to solve hard problems, productionising products, and streamlining and optimising code and pipelines!
+- 🌱 I'm currently learning about natural language processing!
+- 🔭 I’m currently working with [**@alphagov**](https://github.com/alphagov) and [**@ukgovdatascience**](https://github.com/ukgovdatascience/) — most of my work is there! Check out [`govcookiecutter`](https://github.com/ukgovdatascience/govcookiecutter) for a quick way to set up HM Government data science projects!
+- 😄 Pronouns: **he/him/his/himself**
+
+[![My LinkedIn profile](https://img.shields.io/badge/-Eric%20Young-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/eskyoung/)
+[![Visits Badge](https://badges.pufler.dev/visits/ESKYoung/ESKYoung?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/ESKYoung)
 
 ## 🌍🛠 Languages and tools 
 
