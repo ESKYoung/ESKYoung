@@ -16,6 +16,9 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-007A88?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF)](https://airflow.apache.org/)
 [![Amazon Web Services (AWS) Sagemaker](https://img.shields.io/badge/-AWS%20Sagemaker-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FFFFFF)](https://aws.amazon.com/)
+[![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=FFFFFF)](https://www.heroku.com/)
+[![Travis CI](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=for-the-badge&logo=Travis%20CI&logoColor=FFFFFF)](https://travis-ci.com/)
 
 👨‍💻 Regularly using...
 
