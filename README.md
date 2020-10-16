@@ -27,12 +27,16 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 [![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=FFFFFF)](https://cloud.google.com/)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF)](https://jupyter.org/)
 [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)](https://daringfireball.net/projects/markdown/)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=FFFFFF)](https://numpy.org/)
+[![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/)
+[![pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=FFFFFF)](https://pre-commit.com/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF)](https://www.jetbrains.com/pycharm/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
+[![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF)](https://scikit-learn.org/)
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF)](https://slack.com/)
 [![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=FFFFFF)](https://trello.com/)
 
-🎉 Have also used...
+🎉 Delivered projects using...
 
 [![Anaconda](https://img.shields.io/badge/-Anaconda-42B029?style=for-the-badge&logo=Anaconda&logoColor=FFFFFF)](https://www.anaconda.com/)
 [![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache-Spark&logoColor=FFFFFF)](https://spark.apache.org/)
