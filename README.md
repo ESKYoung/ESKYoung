@@ -51,6 +51,10 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 [![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=FFFFFF)](https://www.r-project.org/)
 [![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=FFFFFF)](https://rstudio.com/)
 
+📚 Learning with...
+
+[![PluralSight](https://img.shields.io/badge/-Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=FFFFFF)](https://www.pluralsight.com/)
+
 ## 🧮 GitHub statistics
 
 <p>
