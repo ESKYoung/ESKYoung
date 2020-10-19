@@ -22,11 +22,17 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 
 👨‍💻 Regularly using...
 
+[![Atom](https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=Atom&logoColor=FFFFFF)](https://atom.io/)
+[![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=for-the-badge&logo=GIMP&logoColor=FFFFFF)](https://www.gimp.org/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://www.github.com/)
 [![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=FFFFFF)](https://cloud.google.com/)
+[![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=FFFFFF)](https://inkscape.org/)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF)](https://jupyter.org/)
+[![macOS](https://img.shields.io/badge/-macOS-999999?style=for-the-badge&logo=Apple&logoColor=FFFFFF)](https://www.apple.com/uk/macos/)
 [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)](https://daringfireball.net/projects/markdown/)
+[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft%20Office&logoColor=FFFFFF)](https://www.office.com/)
+[![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=000000)](https://notepad-plus-plus.org/)
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=FFFFFF)](https://numpy.org/)
 [![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/)
 [![pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=FFFFFF)](https://pre-commit.com/)
@@ -35,6 +41,7 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF)](https://scikit-learn.org/)
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF)](https://slack.com/)
 [![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=FFFFFF)](https://trello.com/)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/windows/)
 
 🎉 Delivered projects using...
 
