@@ -35,7 +35,7 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 [![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=000000)](https://notepad-plus-plus.org/)
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=FFFFFF)](https://numpy.org/)
 [![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/)
-[![pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=FFFFFF)](https://pre-commit.com/)
+[![pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=000000)](https://pre-commit.com/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF)](https://www.jetbrains.com/pycharm/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF)](https://scikit-learn.org/)
@@ -54,7 +54,7 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 [![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=FFFFFF)](https://www.mathworks.com/products/matlab.html)
 [![QGIS](https://img.shields.io/badge/-QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=FFFFFF)](https://qgis.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org/)
-[![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=FFFFFF)](https://powerbi.microsoft.com/)
+[![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=000000)](https://powerbi.microsoft.com/)
 [![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=FFFFFF)](https://www.r-project.org/)
 [![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=FFFFFF)](https://rstudio.com/)
 
