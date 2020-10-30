@@ -60,6 +60,7 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 
 📚 Learning with...
 
+[![ACM](https://img.shields.io/badge/-ACM-0085CA?style=for-the-badge&logo=ACM&logoColor=FFFFFF)](https://www.acm.org/)
 [![PluralSight](https://img.shields.io/badge/-Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=FFFFFF)](https://www.pluralsight.com/)
 
 ## 🧮 GitHub statistics
