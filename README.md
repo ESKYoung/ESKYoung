@@ -8,6 +8,7 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 - 😄 Pronouns: **he/him/his/himself**
 
 [![My LinkedIn profile](https://img.shields.io/badge/-Eric%20Young-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/eskyoung/)
+[![Google Scholar](https://img.shields.io/badge/-Eric%20Young-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=FFFFFF)](https://scholar.google.co.uk/citations?user=r5qXivQAAAAJ)
 [![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=ESKYoung.ESKYoung&color=1D70B8&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/ESKYoung)
 
 ## 🌍🛠 Languages and tools 
@@ -16,13 +17,11 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-007A88?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF)](https://airflow.apache.org/)
 [![Amazon Web Services (AWS) Sagemaker](https://img.shields.io/badge/-AWS%20Sagemaker-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FFFFFF)](https://aws.amazon.com/)
-[![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/)
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=FFFFFF)](https://www.heroku.com/)
-[![Travis CI](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=for-the-badge&logo=Travis%20CI&logoColor=FFFFFF)](https://travis-ci.com/)
 
 👨‍💻 Regularly using...
 
 [![Atom](https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=Atom&logoColor=FFFFFF)](https://atom.io/)
+[![Cookiecutter](https://img.shields.io/badge/-Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=FFFFFF)](https://cookiecutter.readthedocs.io/)
 [![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=for-the-badge&logo=GIMP&logoColor=FFFFFF)](https://www.gimp.org/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://www.github.com/)
@@ -39,6 +38,7 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF)](https://www.jetbrains.com/pycharm/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF)](https://scikit-learn.org/)
+[![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=FFFFFF)](https://www.scipy.org/)
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF)](https://slack.com/)
 [![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=FFFFFF)](https://trello.com/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/windows/)
@@ -48,7 +48,9 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 [![Anaconda](https://img.shields.io/badge/-Anaconda-42B029?style=for-the-badge&logo=Anaconda&logoColor=FFFFFF)](https://www.anaconda.com/)
 [![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache-Spark&logoColor=FFFFFF)](https://spark.apache.org/)
 [![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=FFFFFF)](https://www.atlassian.com/software/confluence)
+[![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=FFFFFF)](https://www.gitlab.com/)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=FFFFFF)](https://www.heroku.com/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira-Software&logoColor=FFFFFF)](https://www.atlassian.com/software/jira)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=FFFFFF)](https://www.latex-project.org/)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=FFFFFF)](https://www.mathworks.com/products/matlab.html)
@@ -57,10 +59,12 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 [![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=000000)](https://powerbi.microsoft.com/)
 [![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=FFFFFF)](https://www.r-project.org/)
 [![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=FFFFFF)](https://rstudio.com/)
+[![Travis CI](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=for-the-badge&logo=Travis%20CI&logoColor=FFFFFF)](https://travis-ci.com/)
 
 📚 Learning with...
 
 [![ACM](https://img.shields.io/badge/-ACM-0085CA?style=for-the-badge&logo=ACM&logoColor=FFFFFF)](https://www.acm.org/)
+[![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=FFFFFF)](https://www.coursera.org/)
 [![PluralSight](https://img.shields.io/badge/-Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=FFFFFF)](https://www.pluralsight.com/)
 
 ## 🧮 GitHub statistics
