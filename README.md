@@ -3,7 +3,7 @@
 My name is **Eric Young**, and I'm a data scientist based in London!
 
 - 💛 I love using machine learning to solve hard problems, productionising products, and streamlining and optimising code and pipelines!
-- 🌱 I'm currently learning about natural language processing!
+- 🌱 I'm currently learning about natural language processing, and researching how to build a Google BigQuery pipeline framework!
 - 🔭 I’m currently working with [**@alphagov**](https://github.com/alphagov) and [**@ukgovdatascience**](https://github.com/ukgovdatascience/) — most of my work is there! Check out [`govcookiecutter`](https://github.com/ukgovdatascience/govcookiecutter) for a quick way to set up HM Government data science projects!
 - 😄 Pronouns: **he/him/his/himself**
 
@@ -28,12 +28,13 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 [![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=FFFFFF)](https://cloud.google.com/)
 [![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=FFFFFF)](https://inkscape.org/)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF)](https://jupyter.org/)
-[![macOS](https://img.shields.io/badge/-macOS-999999?style=for-the-badge&logo=Apple&logoColor=FFFFFF)](https://www.apple.com/uk/macos/)
+[![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=macOS&logoColor=FFFFFF)](https://www.apple.com/uk/macos/)
 [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)](https://daringfireball.net/projects/markdown/)
 [![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft%20Office&logoColor=FFFFFF)](https://www.office.com/)
 [![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=000000)](https://notepad-plus-plus.org/)
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=FFFFFF)](https://numpy.org/)
 [![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/)
+[![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=FFFFFF)](https://plotly.com/)
 [![pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=000000)](https://pre-commit.com/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF)](https://www.jetbrains.com/pycharm/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
