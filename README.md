@@ -15,12 +15,13 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 
 🌱 Learning...
 
-[![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-007A88?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF)](https://airflow.apache.org/)
+[![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF)](https://airflow.apache.org/)
 [![Amazon Web Services (AWS) Sagemaker](https://img.shields.io/badge/-AWS%20Sagemaker-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FFFFFF)](https://aws.amazon.com/)
 
 👨‍💻 Regularly using...
 
 [![Atom](https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=Atom&logoColor=FFFFFF)](https://atom.io/)
+[![Codecov](https://img.shields.io/badge/-Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=FFFFFF)](https://about.codecov.io/)
 [![Cookiecutter](https://img.shields.io/badge/-Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=FFFFFF)](https://cookiecutter.readthedocs.io/)
 [![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=for-the-badge&logo=GIMP&logoColor=FFFFFF)](https://www.gimp.org/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)](https://git-scm.com/)
@@ -50,6 +51,7 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 [![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache-Spark&logoColor=FFFFFF)](https://spark.apache.org/)
 [![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=FFFFFF)](https://www.atlassian.com/software/confluence)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/)
+[![Folium](https://img.shields.io/badge/-Folium-77B829?style=for-the-badge&logo=Folium&logoColor=FFFFFF)](https://python-visualization.github.io/folium/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=FFFFFF)](https://www.gitlab.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=FFFFFF)](https://www.heroku.com/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira-Software&logoColor=FFFFFF)](https://www.atlassian.com/software/jira)
