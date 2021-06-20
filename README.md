@@ -3,11 +3,11 @@
 My name is **Eric Young**, and I'm a data scientist based in London!
 
 - 💛 I love using machine learning to solve hard problems, productionising products, and streamlining and optimising code and pipelines!
-- 🌱 I'm currently learning about natural language processing, and researching how to build a Google BigQuery pipeline framework!
+- 🌱 I'm currently learning about [Sphinx](https://www.sphinx-doc.org/) to [develop a GOV.UK Tech Docs Sphinx theme](https://github.com/alphagov/tech-docs-template)!
 - 🔭 I’m currently working with [**@alphagov**](https://github.com/alphagov) and [**@ukgovdatascience**](https://github.com/ukgovdatascience/) — most of my work is there! Check out [`govcookiecutter`](https://github.com/ukgovdatascience/govcookiecutter) for a quick way to set up HM Government data science projects!
 - 😄 Pronouns: **he/him/his/himself**
 
-[![My LinkedIn profile](https://img.shields.io/badge/-Eric%20Young-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/eskyoung/)
+[![My LinkedIn profile](https://img.shields.io/badge/-Eric%20Young-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/eskyoung/)
 [![Google Scholar](https://img.shields.io/badge/-Eric%20Young-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=FFFFFF)](https://scholar.google.co.uk/citations?user=r5qXivQAAAAJ)
 [![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=ESKYoung.ESKYoung&color=1D70B8&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/ESKYoung)
 
@@ -16,7 +16,8 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 🌱 Learning...
 
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF)](https://airflow.apache.org/)
-[![Amazon Web Services (AWS) Sagemaker](https://img.shields.io/badge/-AWS%20Sagemaker-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FFFFFF)](https://aws.amazon.com/)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=FFFFFF)](https://github.com/features/actions)
+[![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=for-the-badge&logo=Jinja&logoColor=FFFFFF)](https://jinja.palletsprojects.com/)
 
 👨‍💻 Regularly using...
 
@@ -38,17 +39,19 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 [![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=FFFFFF)](https://plotly.com/)
 [![pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=000000)](https://pre-commit.com/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF)](https://www.jetbrains.com/pycharm/)
+[![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=FFFFFF)](https://docs.pytest.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF)](https://scikit-learn.org/)
 [![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=FFFFFF)](https://www.scipy.org/)
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF)](https://slack.com/)
-[![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=FFFFFF)](https://trello.com/)
+[![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=FFFFFF)](https://trello.com/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/windows/)
 
 🎉 Delivered projects using...
 
-[![Anaconda](https://img.shields.io/badge/-Anaconda-42B029?style=for-the-badge&logo=Anaconda&logoColor=FFFFFF)](https://www.anaconda.com/)
+[![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=FFFFFF)](https://www.anaconda.com/)
 [![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache-Spark&logoColor=FFFFFF)](https://spark.apache.org/)
+[![Amazon Web Services (AWS) Sagemaker](https://img.shields.io/badge/-AWS%20Sagemaker-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FFFFFF)](https://aws.amazon.com/)
 [![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=FFFFFF)](https://www.atlassian.com/software/confluence)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/)
 [![Folium](https://img.shields.io/badge/-Folium-77B829?style=for-the-badge&logo=Folium&logoColor=FFFFFF)](https://python-visualization.github.io/folium/)
@@ -58,7 +61,7 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=FFFFFF)](https://www.latex-project.org/)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=FFFFFF)](https://www.mathworks.com/products/matlab.html)
 [![QGIS](https://img.shields.io/badge/-QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=FFFFFF)](https://qgis.org/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org/)
 [![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=000000)](https://powerbi.microsoft.com/)
 [![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=FFFFFF)](https://www.r-project.org/)
 [![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=FFFFFF)](https://rstudio.com/)
