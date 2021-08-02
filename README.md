@@ -23,9 +23,9 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 
 - Representational learning to cluster and identify audiences
 - Identifying features of successful/unsuccessful journeys using supervised machine learning
-- Prototyped feedback classification using natural language processing
-- Researched and developed novel performance metrics to identify content issues
-- Developed robust Google BigQuery pipelines to productionise analyses
+- Feedback classification using natural language processing
+- Researching and developing novel performance metrics to identify content issues
+- Developing robust Google BigQuery pipelines to productionise analyses
 
 ## 🌍🛠 Languages and tools 
 
@@ -91,7 +91,7 @@ Having a couple of weeks off! What this space...
 [![ACM](https://img.shields.io/badge/-ACM-0085CA?style=for-the-badge&logo=ACM&logoColor=FFFFFF)](https://www.acm.org/)
 [![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=FFFFFF)](https://www.coursera.org/)
 [![PluralSight](https://img.shields.io/badge/-Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=FFFFFF)](https://www.pluralsight.com/)
-[![Udemy](https://img.shields.io/badge/-Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=FFFFFF)](https://www.udemy.com/)
+[![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=FFFFFF)](https://www.udemy.com/)
 
 ## 🧮 GitHub statistics
 
