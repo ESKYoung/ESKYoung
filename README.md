@@ -4,7 +4,7 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 
 - 💛 I love using machine learning to solve hard problems, productionising products, and streamlining and optimising code and pipelines!
 - 🌱 Learning about multi-armed bandit testing!
-- 🔭 Senior Data Scientist at [**RVU**](https://www.rvu.co.uk/). Formerly at [**@alphagov**](https://github.com/alphagov) and [**@ukgovdatascience**](https://github.com/ukgovdatascience/).
+- 🔭 Senior Data Scientist at [**RVU**](https://www.rvu.co.uk/)/[**@uswitch**](https://github.com/uswitch). Formerly at [**@alphagov**](https://github.com/alphagov) and [**@ukgovdatascience**](https://github.com/ukgovdatascience/).
 - 😄 Pronouns: **he/him/his/himself**
 
 [![My LinkedIn profile](https://img.shields.io/badge/-Eric%20Young-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/eskyoung/)
@@ -32,6 +32,7 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 🌱 Learning...
 
 [![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=FFFFFF)](https://databricks.com/)
+[![dbt](https://img.shields.io/badge/-dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=FFFFFF)](https://www.getdbt.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=FFFFFF)](https://kubernetes.io/)
 
 👨‍💻 Regularly using...
