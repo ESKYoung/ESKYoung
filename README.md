@@ -86,7 +86,7 @@ My name is **Eric Young**, and I'm a data scientist based in London!
 [![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=FFFFFF)](https://www.atlassian.com/software/confluence)
 [![Folium](https://img.shields.io/badge/-Folium-77B829?style=for-the-badge&logo=Folium&logoColor=FFFFFF)](https://python-visualization.github.io/folium/)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=FFFFFF)](https://github.com/features/actions)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=FFFFFF)](https://www.gitlab.com/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=FFFFFF)](https://www.gitlab.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=FFFFFF)](https://www.heroku.com/)
 [![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=for-the-badge&logo=Jinja&logoColor=FFFFFF)](https://jinja.palletsprojects.com/)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=FFFFFF)](https://www.latex-project.org/)
