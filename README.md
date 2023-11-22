@@ -4,7 +4,7 @@ My name is **Eric Young**, and I'm a machine learning engineer based in London!
 
 - 💛 I love using machine learning (ML) to solve hard problems, productionising products, and streamlining and optimising code and pipelines!
 - 🌱 Working on my open-source projects!
-- 🔭 Formerly at [**@Yelp**](https://github.com/Yelp/), [**@uswitch**](https://github.com/uswitch/), [**@alphagov**](https://github.com/alphagov/), and [**@ukgovdatascience**](https://github.com/ukgovdatascience/).
+- 🔭 Senior Machine Learning Engineer [**@ovotech**](https://github.com/ovotech). Formerly at [**@Yelp**](https://github.com/Yelp/), [**@uswitch**](https://github.com/uswitch/), [**@alphagov**](https://github.com/alphagov/), and [**@ukgovdatascience**](https://github.com/ukgovdatascience/).
 - 😄 Pronouns: **he/him/his/himself**
 
 [![LinkedIn](https://img.shields.io/badge/-Eric%20Young-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/eskyoung/)
